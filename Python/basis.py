@@ -1,3 +1,8 @@
+"""
+This code was written by Sephora M in her project Graph ML ('https://github.com/Sephora-M/graph-rl/blob/master/lspi/basis_functions.py'). 
+I simply modified the Proto Value Basis to adapt it to the continuous case.
+"""
+
 # -*- coding: utf-8 -*-
 """Abstract Base Class for Basis Function and some common implementations."""
 
